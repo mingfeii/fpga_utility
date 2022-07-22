@@ -1,0 +1,1 @@
+AXI master write data to some address and readback to check .
